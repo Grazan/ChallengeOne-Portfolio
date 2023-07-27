@@ -1,0 +1,30 @@
+.skill{
+  background-color: var(--bg-branco);
+
+  width: 45%;
+  min-height: 130px;
+
+  padding: 1rem;
+  border-radius: 5px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  
+  transition: .3s ease-in-out;
+}
+.skill:hover{
+  scale: 1.05;
+}
+
+@media screen and (width >=768px) {
+  .skill{
+    width: calc((100%/3) - 20px);
+  }
+}
+@media screen and (width >= 1440px) {
+  .skill{
+    height: 170px;
+    max-width: 180px;
+  }
+}

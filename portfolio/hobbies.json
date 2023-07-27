@@ -1,0 +1,18 @@
+[
+  {
+    "titulo": "Viajar",
+    "imagem": "assets/imagens/hobbies/moto.png",
+    "alt": "Ícone de Moto"
+  },
+
+  {
+    "titulo": "Ouvir música",
+    "imagem":"assets/imagens/hobbies/rock.png",
+    "alt":"Ícone de rock"
+  },
+  {
+    "titulo": "Tocar guitarra",
+    "imagem": "assets/imagens/hobbies/banda.png",
+    "alt": "Ícone de instrumento musical"
+  }
+]

@@ -1,0 +1,7 @@
+.topo__nome{
+  display: flex;
+  flex-direction: column;
+}
+.topo__nome img{
+  height: 35px;
+}

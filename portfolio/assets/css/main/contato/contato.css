@@ -1,0 +1,13 @@
+.secao-contato{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background-color: var(--bg-azul);
+  padding: 1.5rem 0 3rem;
+}
+.contato{
+  display: flex;
+  gap: 20px;
+  justify-content: space-between;
+}

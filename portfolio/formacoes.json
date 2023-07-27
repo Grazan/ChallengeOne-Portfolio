@@ -1,0 +1,24 @@
+[
+  {
+    "titulo": "Analise e Desenvolvimento de Sistemas",
+    "imagem": "assets/imagens/formacoes/unopar.png",
+    "alt": "Logo do Unopar",
+    "ano": "2021 - 2023",
+    "nome": "Unopar"
+  },
+
+  {
+    "titulo": "Formação em Desenvolvimento Pessoal",
+    "imagem": "assets/imagens/formacoes/alura.png",
+    "alt":"Logo da Alura",
+    "ano": "2023",
+    "nome": "Alura"
+  },
+  {
+    "titulo": "Formação Iniciante em Programação",
+    "imagem": "assets/imagens/formacoes/alura.png",
+    "alt":"Logo da Alura",
+    "ano": "2023",
+    "nome": "Alura"
+  }
+]

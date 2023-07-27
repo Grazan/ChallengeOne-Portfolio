@@ -1,0 +1,42 @@
+[
+      {
+    "titulo": "Site Barbearia",
+    "descricao": "Pagina desenvolvida em curso",
+    "imagem": "assets/imagens/projetos/barbearia.png",
+    "alt": "Print da demo do projeto",
+    "demo": "https://grazan.github.io/SiteBarbeariaAlura/",
+    "repositorio": "https://github.com/Grazan/SiteBarbeariaAlura"
+  },
+    {
+    "titulo": "Site Alurinha",
+    "descricao": "Exercício da Alura - Flexbox",
+    "imagem": "assets/imagens/projetos/alurinha.png",
+    "alt": "Print da demo do projeto",
+    "demo": "https://grazan.github.io/SiteAlurinha/",
+    "repositorio": "https://github.com/Grazan/SiteAlurinha"
+  },
+  {
+    "titulo": "Decodificador de Texto",
+    "descricao": "Challenge Alura",
+    "imagem": "assets/imagens/projetos/decodificador.png",
+    "alt": "Print da demo do projeto",
+    "demo": "https://grazan.github.io/Challenge-ONE-Criptografia/",
+    "repositorio": "https://github.com/Grazan/Challenge-ONE-Criptografia"
+  },
+  {
+    "titulo": "AluraGeek",
+    "descricao": "Site completo com e-commerce",
+    "imagem": "assets/imagens/projetos/Alurageek.png",
+    "alt": "Print da demo do projeto",
+    "demo": "https://grazan.github.io/Challenge-Front-End---AluraGeek/https://deivid-esf.github.io/age-calculator/",
+    "repositorio": "https://github.com/Grazan/Challenge-Front-End---AluraGeek"
+  },
+  {
+    "titulo": "Portfólio",
+    "descricao": "Challenge da Alura",
+    "imagem": "assets/imagens/projetos/portfolio.png",
+    "alt": "Print da demo do projeto",
+    "demo": "https://github.com/Grazan/ChallengeOnePortfolio",
+    "repositorio": "https://github.com/Grazan/ChallengeOnePortfolio"
+  }
+]
